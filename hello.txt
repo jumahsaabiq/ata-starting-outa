@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is master
+=======
+Hello, this is experiment branch
+>>>>>>> experiment
 my second line for second commit
 third edit, third commit
 adding another line
