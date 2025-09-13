@@ -1,3 +1,4 @@
 Hello, this is my first Git snapshot!
 my second line for second commit
 third edit, third commit
+adding another line
