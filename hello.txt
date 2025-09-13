@@ -1,4 +1,4 @@
-Hello, this is my first Git snapshot!
+Hello, there might be conflict
 my second line for second commit
 third edit, third commit
 adding another line
