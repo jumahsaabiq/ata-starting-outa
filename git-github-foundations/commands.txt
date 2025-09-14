@@ -1,0 +1,6 @@
+git init - initializes a new repository
+git add . - stages all files for commit
+git commit -m "message" - saves a snapshot of changes
+git status - shows the current state of the repo
+git log - shows the commit history
+git branch - lists, creates, or deletes branches
